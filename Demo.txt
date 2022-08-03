@@ -1,0 +1,4 @@
+public class Demo{
+public Statc void main(String arg[]){
+}
+}
